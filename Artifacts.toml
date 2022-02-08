@@ -1,0 +1,119 @@
+[[Zenith]]
+arch = "aarch64"
+git-tree-sha1 = "87bb6c81265680ca3f6ecd68ec1277de284e3a28"
+os = "macos"
+
+    [[Zenith.download]]
+    sha256 = "d23aa6b3c25c2b7f4b1b524b5eb445907fcd5d712be4594c6bb7bfc412ff41be"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.aarch64-apple-darwin.tar.gz"
+[[Zenith]]
+arch = "aarch64"
+git-tree-sha1 = "0398e9dcc91280ae5c76bb94c0669f2baf28fdbb"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "a3b3f0b555a9b93d68a67ef8ab868416127ac5745697234b77b153b187adef31"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.aarch64-linux-gnu.tar.gz"
+[[Zenith]]
+arch = "aarch64"
+git-tree-sha1 = "d9eb16ef073efef0408677358305599f0a888487"
+libc = "musl"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "960678fd728e61a4f3792e4754fbb1e4a8e6de4fb96d893fc080668cbf95549f"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.aarch64-linux-musl.tar.gz"
+[[Zenith]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d97af6e188c17a2e875843c97d51bfcfec30356"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "9af0d105904d1ef8151419ee3be9bf6066482de5c797226dc3ae2d2f220df712"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.armv6l-linux-gnueabihf.tar.gz"
+[[Zenith]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0b583c43853a1a3fced95edba0359270600e211e"
+libc = "musl"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "352eb2a9abeda0ea1a3e4df51a9316e6528327e568b9cb2019de0f6db02708e4"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.armv6l-linux-musleabihf.tar.gz"
+[[Zenith]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "beafda4e236348d74f2a4d8b6d2f281c2f12d124"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "1d4f6163a45120b8ff8ede5d0e75258cc4193a150b939af5a1e314eeac0cecc1"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.armv7l-linux-gnueabihf.tar.gz"
+[[Zenith]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f33a0f21d7043fb5321bca6ea8dcf001d86badf5"
+libc = "musl"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "5b6c51c6cbd7b37c4d0c870f7dc2311e73386bf8fe91c6e870accb70f4e388db"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.armv7l-linux-musleabihf.tar.gz"
+[[Zenith]]
+arch = "i686"
+git-tree-sha1 = "b091362e07bfd97b849c71bee65f3d301da13636"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "7e229a908dc76a9b11898694cc8c427a9ee7753a93f50fe7e03725e92e516574"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.i686-linux-gnu.tar.gz"
+[[Zenith]]
+arch = "i686"
+git-tree-sha1 = "552c95c9c4f58b154752adb273e5d91f46aa1cf4"
+libc = "musl"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "c3fce3115aaed8755f4f0493927a285502ce54b1fdec5c98639c85401fe0b640"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.i686-linux-musl.tar.gz"
+[[Zenith]]
+arch = "powerpc64le"
+git-tree-sha1 = "cbd0445aceace17a943b92fc016c60465a726095"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "575e731977aa04154580cd113bb5f73824518939240a63e57c805f4910ff7e7a"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.powerpc64le-linux-gnu.tar.gz"
+[[Zenith]]
+arch = "x86_64"
+git-tree-sha1 = "43ec0a80195a201341d0cbb3350e39e8eae76a23"
+os = "macos"
+
+    [[Zenith.download]]
+    sha256 = "53c9058f59bbc73acbe2303cb698eb4c2558f04a18aba2909bbb88729c34a469"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.x86_64-apple-darwin.tar.gz"
+[[Zenith]]
+arch = "x86_64"
+git-tree-sha1 = "216182f2b3b748e0811214146f47db3a1d1f08eb"
+libc = "glibc"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "2369bb98a83fecf1db02f85983151a80f37d84e4b4986025600ebd5915754d7c"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.x86_64-linux-gnu.tar.gz"
+[[Zenith]]
+arch = "x86_64"
+git-tree-sha1 = "50a93ded455f016b7896ed7635cff1edb0422a90"
+libc = "musl"
+os = "linux"
+
+    [[Zenith.download]]
+    sha256 = "e07046d283f43c12890aa92252d17ece755d3126524ab39b1a955984e6ba6f51"
+    url = "https://github.com/JuliaBinaryWrappers/Zenith_jll.jl/releases/download/Zenith-v0.12.0+0/Zenith.v0.12.0.x86_64-linux-musl.tar.gz"
